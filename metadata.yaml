@@ -1,0 +1,31 @@
+_repo: Berlin---Panorama-einer-Weltstadt_9977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gutzkow, Karl
+    birthdate: 1811
+    deathdate: 1878
+    gutenberg_agent_id: '3228'
+    url: http://www.gutenberg.org/2009/agents/3228
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Karl_Gutzkow
+    - http://en.wikipedia.org/wiki/Karl_Gutzkow
+description: ''
+gutenberg_bookshelf:
+- Germany
+- DE Sachbuch
+- German Language Books
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9977'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Description and travel'
+- !lcc 'DD'
+- GITenberg
+title: Berlin — Panorama einer Weltstadt
+url: http://www.gutenberg.org/ebooks/9977
